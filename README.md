@@ -1,3 +1,2 @@
 # mlops-zoomcamp
-
-This is an example
+MLOps Zoomcamp 2025 notes and homework
